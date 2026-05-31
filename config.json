@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usercecrypt",
+        "uuid": 19182240,
+        "checksum": "hr49ia"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
